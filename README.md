@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justobioma
-- 👀 I’m interested in remote software development and devops jobs
+- 👀 I’m interested in remote Software Development and Devops jobs
 - 🌱 I’m currently learning Javascript(Nodejs, React & React Native)
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @justobioma on all social media platforms
@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Frameworks-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frameworks-Reactnative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Middleware-Expressjs-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
