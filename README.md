@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justobioma
-- 👀 I’m interested in remote Software Development and Devops jobs
-- 🌱 I’m currently learning Javascript(Nodejs, React & React Native)
+- 👀 I’m interested in remote Software Development. cloud and Devops jobs
+- 🌱 I’m currently learning Javascript(Nodejs, React & React Native) and web3
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @justobioma on all social media platforms
 
